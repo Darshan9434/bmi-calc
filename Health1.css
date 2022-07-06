@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: slateblue;
+}
+.divcalc{
+    background-color: aliceblue;
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+input{
+    margin: 20px;
+    width: 300px;
+}
+.inputrng{
+    margin-top: 30px;
+}
+.bmih1{
+    margin:60px 20px 20px 20px;
+}

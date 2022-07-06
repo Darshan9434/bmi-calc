@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }.App {
+    text-align: center;
+  }
+
+  /* h1,h5{
+      color: yellow
+  } */
+h4{
+    color: black;
+}
+  /* body{
+      background-color: pink;
+  } */
+  
+  input{
+      background-color: black;
+      width: 370px;
+      padding: 5px;
+      border: none;
+      border-bottom: 1px solid yellow;
+      outline: none;
+      color: yellow;
+      font-size: large;
+     
+  }
+ 
+  button{
+      font-family: 'Courier New', Courier, monospace;
+      font-size: medium;
+      background-color: yellow;
+      width: 370px;
+      margin-top:0px;
+      padding: 5px;
+      border: none;
+  }
+  .div1{
+      margin: 100px;
+  }
+  .div2{
+      margin-top: -80px;
+  }
+  .div3{
+      color: white;
+      border-color: white;
+  }
+ 
